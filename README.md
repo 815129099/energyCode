@@ -17,4 +17,4 @@
 >>>>缩进
 
 ![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")  
-![baidu](https://github.com/815129099/energyCode/tree/master/src/assets/img/login-bg.jpg "login.logo")  
+![baidu](https://github.com/815129099/energyCode/tree/master/src/assets/logo.png "login.logo")  
